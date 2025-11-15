@@ -27,7 +27,7 @@ We need to create a clean, isolated "bubble" for this project so the Python code
     ```bash
     # 'cd' stands for 'change directory'. 
     # Drag your project folder onto the terminal to get its path.
-    cd /path/to/your/agentic-wildfire-system
+    cd /path/to/your/Geospatial-Reinforcement-Learning-Wildfire-Response-and-Containment-Planning
     ```
 
   * **Create the bubble:**
