@@ -1,0 +1,72 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# --- Virtual Environments ---
+venv/
+env/
+.venv/
+ENV/
+.env/
+
+# --- IDE / Editor Files ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs and Caches ---
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+.cache/
+pip-log.txt
+pytest_cache/
+.ipynb_checkpoints/
+
+# --- Build / Packaging ---
+build/
+dist/
+*.egg-info/
+.eggs/
+MANIFEST
+
+# --- Jupyter / Notebooks ---
+.ipynb_checkpoints
+*.nbconvert.ipynb
+
+# --- Environment / Config ---
+.env
+.env.*
+*.ini
+*.cfg
+*.json
+
+# --- Data Files (optional, if large or generated) ---
+data/
+datasets/
+*.csv
+*.tsv
+*.zip
+*.tar.gz
+
+# --- Coverage / Testing ---
+.coverage
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+coverage.xml
+
+# --- Misc ---
+*.sqlite3
+*.db
